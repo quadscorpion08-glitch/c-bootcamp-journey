@@ -1,0 +1,6 @@
+echo "*.exe" > .gitignore
+echo "*.o" >> .gitignore
+echo "*.elf" >> .gitignore
+echo "*.log" >> .gitignore
+echo ".vscode/" >> .gitignore
+echo "build/" >> .gitignore
